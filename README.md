@@ -43,6 +43,6 @@
 - 🔭 I'm looking for opportunities now.
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin]([https://juejin.cn/user/4459274891717223](https://juejin.cn/user/4350092314689261/posts))
-- ⛺️ I have a private site: [kunlunxu](https://blog.shanchuan.cc), you're welcome to come! ~
+- 👻 I love to share, and currently share technical articles at [juejin]([https://juejin.cn/user/4459274891717223])
+- ⛺️ I have a private site: [shanchuan](https://blog.shanchuan.cc), you're welcome to come! ~
 - 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~

@@ -45,4 +45,4 @@
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin]([https://juejin.cn/user/4459274891717223])
 - ⛺️ I have a private site: [shanchuan](https://blog.shanchuan.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- 📨 My email address is `1121021693@qq.com` Welcome to contact me 👏🏻 ~

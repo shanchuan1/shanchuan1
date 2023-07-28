@@ -47,3 +47,11 @@
 - 👻 I love to share, and currently share technical articles at [juejin]([https://juejin.cn/user/4459274891717223])
 - ⛺️ I have a private site: [shanchuan](https://blog.shanchuan.cc), you're welcome to come! ~
 - 📨 My email address is `1121021693@qq.com` Welcome to contact me 👏🏻 ~
+
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+

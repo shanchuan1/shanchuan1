@@ -55,3 +55,5 @@
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
 
+<!-- 统计卡片 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanchuan1)](https://github.com/anuraghazra/github-readme-stats)

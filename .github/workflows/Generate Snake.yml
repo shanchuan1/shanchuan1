@@ -15,9 +15,21 @@ on:
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
-  build:
+# 成统计图, see: https://github.com/lowlighter/metrics
+  github-metrics: 
+    runs-on: ubuntu-latest    
+    steps:
+      - name: metrics-Half-year-calendar
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          filename: assets/metrics.plugin.isocalendar.svg
+          token: ${{ github.token }}
+          plugin_isocalendar: yes
+  
+  # 创建 Snake, 用 Platane/snk 生成图片, see: https://github.com/Platane/snk
+  github-Snake: 
     runs-on: ubuntu-latest
-
     steps:
       # 使用 actions/checkout, see: https://github.com/actions/checkout
       - name: Checkout

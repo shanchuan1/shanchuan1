@@ -65,7 +65,8 @@
     </td>
     <td align="left">
     <!--   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=shanchuan1&&count_private=true&show_icons=true&theme=radical"/> 
+     <!-- <img src="https://github-readme-stats.vercel.app/api?username=shanchuan1&&count_private=true&show_icons=true&theme=radical"/> -->
+      <img src="https://github-readme-stats.vercel.app/api?username=shanchuan1&&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/> 
     </td>
   </tr>
 </table>
